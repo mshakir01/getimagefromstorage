@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33317159229",
+    "project_id": "getdatafromfirebase-244b8",
+    "storage_bucket": "getdatafromfirebase-244b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33317159229:android:e24ca50c4448b94b84c554",
+        "android_client_info": {
+          "package_name": "com.example.getdatafirebasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItAdty3cxmZel0OnUBPzJhUvfkv4ytwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
